@@ -1,0 +1,46 @@
+
+.wrapper{
+    display: grid;
+   grid-template-columns: auto auto auto auto auto;
+   gap: 10px;
+   
+}
+
+.wrapper-item img{
+    height: 20vh;
+    width: 15vw;
+    border: 1px solid;
+    padding: 5px;
+    box-shadow: 5px 10px;
+    border-radius: 15px;
+    
+    
+}
+
+body{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+
+.btn{
+    height: 5vh;
+    width: 15vw;
+    margin-left: 55%;
+    margin-top: 15%;
+}
+
+.content{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.text{
+    color: blue;
+}
+
+
+
+
+
+
